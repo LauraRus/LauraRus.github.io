@@ -9,7 +9,7 @@ menuorder: 1
 
 ## Current Interests and Projects:
 
-- User Expereince
+- User Experience
 - Accessibility
 - Studs Terkel Radio Archive
 
